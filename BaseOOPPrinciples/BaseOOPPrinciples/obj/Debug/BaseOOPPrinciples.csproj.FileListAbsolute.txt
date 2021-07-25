@@ -1,0 +1,7 @@
+C:\Users\саша\Desktop\BaseOOPPrinciples\BaseOOPPrinciples\bin\Debug\BaseOOPPrinciples.exe.config
+C:\Users\саша\Desktop\BaseOOPPrinciples\BaseOOPPrinciples\bin\Debug\BaseOOPPrinciples.exe
+C:\Users\саша\Desktop\BaseOOPPrinciples\BaseOOPPrinciples\bin\Debug\BaseOOPPrinciples.pdb
+C:\Users\саша\Desktop\BaseOOPPrinciples\BaseOOPPrinciples\obj\Debug\BaseOOPPrinciples.csprojAssemblyReference.cache
+C:\Users\саша\Desktop\BaseOOPPrinciples\BaseOOPPrinciples\obj\Debug\BaseOOPPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\саша\Desktop\BaseOOPPrinciples\BaseOOPPrinciples\obj\Debug\BaseOOPPrinciples.exe
+C:\Users\саша\Desktop\BaseOOPPrinciples\BaseOOPPrinciples\obj\Debug\BaseOOPPrinciples.pdb
