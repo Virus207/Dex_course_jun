@@ -1,0 +1,16 @@
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\bin\Debug\net5.0\SpeedTestBoxingUnboxing.exe
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\bin\Debug\net5.0\SpeedTestBoxingUnboxing.deps.json
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\bin\Debug\net5.0\SpeedTestBoxingUnboxing.runtimeconfig.json
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\bin\Debug\net5.0\SpeedTestBoxingUnboxing.runtimeconfig.dev.json
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\bin\Debug\net5.0\SpeedTestBoxingUnboxing.dll
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\bin\Debug\net5.0\ref\SpeedTestBoxingUnboxing.dll
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\bin\Debug\net5.0\SpeedTestBoxingUnboxing.pdb
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\obj\Debug\net5.0\SpeedTestBoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\obj\Debug\net5.0\SpeedTestBoxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\obj\Debug\net5.0\SpeedTestBoxingUnboxing.AssemblyInfo.cs
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\obj\Debug\net5.0\SpeedTestBoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\obj\Debug\net5.0\SpeedTestBoxingUnboxing.dll
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\obj\Debug\net5.0\ref\SpeedTestBoxingUnboxing.dll
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\obj\Debug\net5.0\SpeedTestBoxingUnboxing.pdb
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\obj\Debug\net5.0\SpeedTestBoxingUnboxing.genruntimeconfig.cache
+C:\Users\Bupyc\Desktop\SpeedTestBoxingUnboxing\SpeedTestBoxingUnboxing\obj\Debug\net5.0\SpeedTestBoxingUnboxing.csproj.AssemblyReference.cache
