@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Bupyc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Bupyc\\.nuget\\packages"
+    ]
+  }
+}

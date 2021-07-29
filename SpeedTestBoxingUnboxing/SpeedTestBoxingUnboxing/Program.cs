@@ -8,28 +8,38 @@ namespace SpeedTestBoxingUnboxing
         static void Main(string[] args)
         {
             Stopwatch sw = new();
-            int i = 123;
+            int n = 1000;
+            int[] i = new int[n];
+            int[] j = new int[n];
+            object[] o = new object[n];
 
             Console.WriteLine("Упаковка...");
             sw.Start();
-            object o = i;
+            for (int k = 0; k < n; k++)
+            {
+                o[k] = i[k];
+            }
             sw.Stop();
-            Console.WriteLine($"Упаковка завершена, время упаковки(тики): {sw.ElapsedTicks}");
+            Console.WriteLine($"Упаковка завершена, время упаковки(тики): {sw.ElapsedTicks/n}");
 
             sw.Restart();
 
             Console.WriteLine("\nРаспаковка...");
-            sw.Start();
             try
             {
-                int j = (int)o; // попытка распаковки
+                sw.Start();
+                for (int k = 0; k < n; k++)
+                {
+                    j[k] = (int)o[k];
+                }
                 sw.Stop();
-                Console.WriteLine($"Распаковка завершена, время распаковки(тики): {sw.ElapsedTicks}");
+
+                Console.WriteLine($"Распаковка завершена, время распаковки(тики): {sw.ElapsedTicks/n}");
             }
 
-            catch (System.InvalidCastException e)
+            catch (InvalidCastException e)
             {
-                System.Console.WriteLine($"{e.Message} \nОшибка: Неверная распаковка.");
+                Console.WriteLine($"{e.Message} \nОшибка: Неверная распаковка.");
             }
         }
     }

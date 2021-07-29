@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "ValueTypeAndReferenceType/1.0.0": {
+      "ValueTypeAndReferenceTypeStruct/1.0.0": {
         "runtime": {
-          "ValueTypeAndReferenceType.dll": {}
+          "ValueTypeAndReferenceTypeStruct.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ValueTypeAndReferenceType/1.0.0": {
+    "ValueTypeAndReferenceTypeStruct/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

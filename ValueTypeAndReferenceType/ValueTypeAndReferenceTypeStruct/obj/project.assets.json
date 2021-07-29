@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bupyc\\Documents\\GitHub\\Dex_course_jun\\ValueTypeAndReferenceType\\ValueTypeAndReferenceType\\ValueTypeAndReferenceTypeClass.csproj",
-      "projectName": "ValueTypeAndReferenceTypeClass",
-      "projectPath": "C:\\Users\\Bupyc\\Documents\\GitHub\\Dex_course_jun\\ValueTypeAndReferenceType\\ValueTypeAndReferenceType\\ValueTypeAndReferenceTypeClass.csproj",
+      "projectUniqueName": "C:\\Users\\Bupyc\\Documents\\GitHub\\Dex_course_jun\\ValueTypeAndReferenceType\\ValueTypeAndReferenceTypeStruct\\ValueTypeAndReferenceTypeStruct.csproj",
+      "projectName": "ValueTypeAndReferenceTypeStruct",
+      "projectPath": "C:\\Users\\Bupyc\\Documents\\GitHub\\Dex_course_jun\\ValueTypeAndReferenceType\\ValueTypeAndReferenceTypeStruct\\ValueTypeAndReferenceTypeStruct.csproj",
       "packagesPath": "C:\\Users\\Bupyc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bupyc\\Documents\\GitHub\\Dex_course_jun\\ValueTypeAndReferenceType\\ValueTypeAndReferenceType\\obj\\",
+      "outputPath": "C:\\Users\\Bupyc\\Documents\\GitHub\\Dex_course_jun\\ValueTypeAndReferenceType\\ValueTypeAndReferenceTypeStruct\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bupyc\\AppData\\Roaming\\NuGet\\NuGet.Config",

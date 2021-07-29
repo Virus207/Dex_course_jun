@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace ValueTypeAndReferenceTypeClass
+namespace ValueTypeAndReferenceTypeStruct
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var cube1 = new Some3dFigureClass(6, 2);
-            Console.WriteLine("___________Class__________");
+            var cube1 = new Some3dFigureStruct(6, 2);
+            Console.WriteLine("___________Struct__________");
             Console.WriteLine($"До 1 метода...\nКуб1:");
             PrintInfo(cube1);
 
@@ -19,7 +19,7 @@ namespace ValueTypeAndReferenceTypeClass
 
             Console.WriteLine("___________________________");
 
-            var cube2 = new Some3dFigureClass(6, 2);
+            var cube2 = new Some3dFigureStruct(6, 2);
             Console.WriteLine($"До 2 метода...\nКуб2:");
             PrintInfo(cube2);
 
@@ -29,9 +29,9 @@ namespace ValueTypeAndReferenceTypeClass
             PrintInfo(cube2);
         }
 
-        static Some3dFigureClass FirstMethodSquare(Some3dFigureClass cube)
+        static Some3dFigureStruct FirstMethodSquare(Some3dFigureStruct cube)
         {
-            Console.WriteLine("\n//////Метод №1//////");
+            Console.WriteLine("//////Метод №1//////");
             var newCube = cube;
 
             newCube.AreaFigure = newCube.LengthEdges * newCube.LengthEdges * 6;
@@ -42,11 +42,12 @@ namespace ValueTypeAndReferenceTypeClass
 
             Console.Write($"\nКуб:");
             PrintInfo(cube);
+            Console.WriteLine("Возвращаем новый куб...");
             Console.WriteLine("/////////////////");
             return newCube;
         }
 
-        static void SecondMethodSquare(Some3dFigureClass cube)
+        static void SecondMethodSquare(Some3dFigureStruct cube)
         {
             Console.WriteLine("\n//////Метод №2//////");
             Console.WriteLine("Решение и присваивание переданному экземпляру площади...");
@@ -58,7 +59,7 @@ namespace ValueTypeAndReferenceTypeClass
             Console.WriteLine("/////////////////");
         }
 
-        static void PrintInfo(Some3dFigureClass figure)
+        static void PrintInfo(Some3dFigureStruct figure)
         {
             Console.WriteLine($"Количество граней: {figure.NumEdges}\nДлина граней: {figure.LengthEdges}\nПлощадь: {figure.AreaFigure}");
         }

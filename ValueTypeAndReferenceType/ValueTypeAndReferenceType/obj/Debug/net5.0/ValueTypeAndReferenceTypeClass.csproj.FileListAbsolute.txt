@@ -1,0 +1,16 @@
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\bin\Debug\net5.0\ValueTypeAndReferenceTypeClass.exe
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\bin\Debug\net5.0\ValueTypeAndReferenceTypeClass.deps.json
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\bin\Debug\net5.0\ValueTypeAndReferenceTypeClass.runtimeconfig.json
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\bin\Debug\net5.0\ValueTypeAndReferenceTypeClass.runtimeconfig.dev.json
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\bin\Debug\net5.0\ValueTypeAndReferenceTypeClass.dll
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\bin\Debug\net5.0\ref\ValueTypeAndReferenceTypeClass.dll
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\bin\Debug\net5.0\ValueTypeAndReferenceTypeClass.pdb
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\obj\Debug\net5.0\ValueTypeAndReferenceTypeClass.csproj.AssemblyReference.cache
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\obj\Debug\net5.0\ValueTypeAndReferenceTypeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\obj\Debug\net5.0\ValueTypeAndReferenceTypeClass.AssemblyInfoInputs.cache
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\obj\Debug\net5.0\ValueTypeAndReferenceTypeClass.AssemblyInfo.cs
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\obj\Debug\net5.0\ValueTypeAndReferenceTypeClass.csproj.CoreCompileInputs.cache
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\obj\Debug\net5.0\ValueTypeAndReferenceTypeClass.dll
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\obj\Debug\net5.0\ref\ValueTypeAndReferenceTypeClass.dll
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\obj\Debug\net5.0\ValueTypeAndReferenceTypeClass.pdb
+C:\Users\Bupyc\source\repos\ValueTypeAndReferenceType\ValueTypeAndReferenceType\obj\Debug\net5.0\ValueTypeAndReferenceTypeClass.genruntimeconfig.cache
